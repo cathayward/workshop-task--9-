@@ -2,7 +2,7 @@
 
 ### notes:
 
-website link:
+website link: https://cathayward.github.io/workshop-task--9-/
 
 - i couldn’t really decide what i wanted to do with the live video function but after playing around with it, i was inspired by the look of a pixelated video and it’s link to video games.
 - i decided then, to move the pixelated video to the centre of the screen and behind it, i pixelated an image of a nintendo ds and added that in.
